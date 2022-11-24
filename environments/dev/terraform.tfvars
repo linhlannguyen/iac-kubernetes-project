@@ -1,2 +1,2 @@
 project_id = "linh-prod"
-region     = "us-central1"
+region     = "us-east1"
