@@ -1,2 +1,2 @@
 project_id = "linh-dev"
-region     = "us-east1"
+region     = "us-west1"
