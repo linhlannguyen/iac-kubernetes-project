@@ -15,7 +15,7 @@ variable "gke_num_nodes" {
 
 # GKE cluster
 resource "google_container_cluster" "primary" {
-  name     = "linh-cluster-gke"
+  name     = "linh-dev"
   location = var.region 
   remove_default_node_pool = true
   initial_node_count       = 1  
