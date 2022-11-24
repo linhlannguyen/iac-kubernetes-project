@@ -16,6 +16,6 @@
 terraform {
   backend "gcs" {
     bucket = "ycit020-bucket8888"
-    prefix = "env/dev"
+    prefix = "env/prod"
   }
 }
